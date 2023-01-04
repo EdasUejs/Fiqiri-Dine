@@ -117,13 +117,13 @@ margin: 40px auto 60px;
     line-height: 2;
   }
 .kompjuter {
-    width:30%;
+    width:50%;
     float: left;
     margin-right: 30px;
     
 }
 .kompjuter1 {
-    width:30%;
+    width:70%;
     float:right;
     margin-left: 30px;
 }
